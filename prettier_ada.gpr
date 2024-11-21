@@ -3,7 +3,7 @@
 --  SPDX-License-Identifier: Apache-2.0 WITH LLVM-exception
 --
 
-with "gnatcoll_core";
+with "gnatcoll";
 with "vss_text";
 
 library project Prettier_Ada is
